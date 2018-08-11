@@ -1,6 +1,6 @@
 [submodule "Nethereum"]
-	path = Nethereum
-url=https://github.com/vhnatyk/Nethereum.git
+	path=Nethereum
+	url=https://github.com/vhnatyk/Nethereum.git
 [submodule "TraderWallet"]
-	path = TraderWallet
-	url = https://github.com/vhnatyk/ProjectCrowbar.TraderWallet.git
+	path=TraderWallet	
+	url=https://github.com/vhnatyk/ProjectCrowbar.TraderWallet.git
