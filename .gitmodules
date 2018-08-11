@@ -1,0 +1,3 @@
+[submodule "TraderWallet"]
+	path = TraderWallet
+	url = https://github.com/vhnatyk/ProjectCrowbar.TraderWallet.git
