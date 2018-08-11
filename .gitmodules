@@ -3,4 +3,4 @@
 url=https://github.com/vhnatyk/Nethereum.git
 [submodule "TraderWallet"]
 	path = TraderWallet
-url=https://github.com/vhnatyk/TraderWallet.git
+	url = https://github.com/vhnatyk/ProjectCrowbar.TraderWallet.git
