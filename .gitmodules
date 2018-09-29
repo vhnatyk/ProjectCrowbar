@@ -1,6 +1,6 @@
-[submodule "TraderWallet"]
-	path = TraderWallet
-	url = https://github.com/vhnatyk/ProjectCrowbar.TraderWallet.git
+[submodule "Monowallet"]
+	path = Monowallet
+	url = https://github.com/eruptiq/monowallet.git
 [submodule "Nethereum"]
 	path = Nethereum
 	url = https://github.com/vhnatyk/Nethereum.git
